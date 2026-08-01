@@ -1,4 +1,4 @@
-# 💰 Gaste - e Invista +
+# 💰 Gaste - & Invista +
 
 Primeira versão de um sistema de gerenciamento financeiro desenvolvido em **Java** com o objetivo de consolidar os fundamentos da linguagem e da Programação Orientada a Objetos (POO).
 
@@ -8,7 +8,7 @@ Este projeto faz parte da minha jornada de transição para a área de desenvolv
 
 ## 📖 Sobre o projeto
 
-O **Gaste - e Invista +** permite registrar entradas e saídas financeiras e consultar o saldo atual através de uma aplicação em console.
+O **Gaste - & Invista +** permite registrar entradas e saídas financeiras e consultar o saldo atual através de uma aplicação em console.
 
 Nesta primeira versão, o foco foi aplicar conceitos fundamentais da linguagem Java e construir uma base sólida para futuras implementações.
 
